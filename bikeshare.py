@@ -26,6 +26,7 @@ def get_filters():
             else:
                 print('Please enter a valid city from the list\n')
                 continue
+        # Handle Value and type Errors        
         except ValueError:
             print("Incorrect value")
         except TypeError:
