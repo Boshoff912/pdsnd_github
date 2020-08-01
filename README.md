@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+01/08/2020
 
 ### Project Title
-Replace the Project Title
+Post your work on Github
 
 ### Description
-Describe what your project is about and what it does
+This Project goes through the fundamentals of Git version control and using Github.
 
 ### Files used
-Include the files used
+bikeshare.py
+
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udemy Team teaching this course.
