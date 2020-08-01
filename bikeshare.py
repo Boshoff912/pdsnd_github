@@ -254,3 +254,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+    print('Program running to Explore Bikeshare data')
